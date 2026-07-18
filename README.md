@@ -29,3 +29,4 @@ With millions of apps competing for user attention, this project helps uncover *
 This project is a perfect example of how **data-driven decisions** can transform the app development process and create a positive **business impact**. 🌟 Dive in to see the magic of analytics in action! 🚀📈  
 
 ---  
+Google colab link  🔗:  https://colab.research.google.com/drive/1nzBEYNj6xv4M5h6GVcty_cgZ1Y2EnwMc?usp=sharing
